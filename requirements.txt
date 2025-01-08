@@ -7,5 +7,5 @@ azure-ai-projects
 ipython
 jupyter
 black
-opencv-python
+opencv-python-headless
 azure-ai-inference
